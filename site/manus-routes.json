@@ -1,0 +1,10 @@
+{
+  "routes": [
+    { "path": "/", "title": "NeuraBot AI Solutions | Home" },
+    { "path": "/index.html", "title": "NeuraBot AI Solutions | Home" },
+    { "path": "/about.html", "title": "About NeuraBot" },
+    { "path": "/services.html", "title": "AI Services | NeuraBot" },
+    { "path": "/portfolio.html", "title": "Portfolio | NeuraBot" },
+    { "path": "/contact.html", "title": "Contact NeuraBot" }
+  ]
+}
